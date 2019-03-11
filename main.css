@@ -1,0 +1,141 @@
+
+.wword-wrop1{
+    word-wrap:break-word;
+}
+
+.main{
+    margin:auto;
+}
+
+.navbar-header a{
+    background-image: url("image/your-name.png");
+    width:50px;
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+} 
+
+.navbar-right{
+    margin-right: 15px;
+}
+
+.side-bar .list-group-item{
+    border:0;
+    border-radius: 2px;
+    margin-bottom: 15px;
+}
+
+.side-bar .list-group-item:active{
+    background-color: #9fbdcd;
+}
+
+img{
+    display:block;
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.news-list-item-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: block;
+    color: black;
+}
+
+.news-list-item .info{
+    color:#888888;
+    font-size: 25px;
+}
+
+.avatar{
+    display: inline-block;
+}
+
+.avatar img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+
+.news-list-item .title:hover{
+    text-decoration: none;
+    color: #9fbdcd;
+}
+
+.news-list-item{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(172, 169, 169, 0.651);
+}
+
+.news-list-item:first-child{
+    padding-top: 1px;
+}
+.btn-primary{
+    background-color: #9fbdcd;
+    border: #9fbdcd;
+    display: inline-block;
+}
+
+.card-body-text-memo{
+    line-height: 2;
+    padding:15px;
+    margin-bottom: 0;
+}
+
+.card-body-text-author{
+    padding-right: 30px;
+    margin-bottom: 0;
+    padding-bottom: 15px;
+}
+
+.card-title h2{
+    margin: 0px;
+    padding:20px 0 0 15px;
+}
+
+.search-bar input{
+    display: inline-block;
+    margin-left:15px;
+}
+
+.card-body a{
+    display:block;
+    color: rgb(3, 3, 3);
+}
+
+.card-body a:hover{
+    text-decoration: none;
+    background-color:rgb(159, 189, 205,0.20);
+    border-radius: 4px;
+}
+
+.info img{
+    width: 40px;
+    height: 40px;
+}
+
+.info{
+    /* margin-top:90px;  */
+}
+
+.poem-title{
+    line-height: 2.5;
+}
+
+.poem-title+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    line-height: 2;
+}
+
+.login-bar{
+    max-width:400px;
+}
+
+.login-bar-a{
+    display: block;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
